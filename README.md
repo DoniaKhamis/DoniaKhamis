@@ -6,8 +6,6 @@ A Computer Science graduate with a strong foundation in complex problem-solving 
 
 - 🎯 My goal: To master both the software engineering and product management sides of app development.
 
-- 🛠️ My stack: Java, C, C++, Python, and whatever gets the job done.
-
 📫 **Let's connect:** [Donia Khamis](https://www.linkedin.com/in/donia-khamis/)
 
 **Languages:**
